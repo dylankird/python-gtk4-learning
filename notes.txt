@@ -1,0 +1,2 @@
+-Tutorial: https://github.com/Taiko2k/GTK4PythonTutorial/blob/main/README.md
+-Official documentation: https://docs.gtk.org/gtk4/
